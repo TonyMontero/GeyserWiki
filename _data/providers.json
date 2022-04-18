@@ -147,6 +147,11 @@
       "description": "Get Geyser as a plugin. Need to ask to open the default bedrock port."
     },
     {
+      "name": "ElixirNode",
+      "url": "https://elixirnode.com/",
+      "description": "Get Geyser as a plugin. Make sure your remote address and your bedrock address is your server IP and open a port to your bedrock players."
+    },
+    {
       "name": "EnviroMC",
       "url": "https://enviromc.host/",
       "description_template": "default"
